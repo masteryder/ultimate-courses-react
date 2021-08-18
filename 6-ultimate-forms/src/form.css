@@ -1,0 +1,11 @@
+input[type='text'], select, textarea, label, button {
+    display: block;
+}
+
+input[type='text'], select, textarea, button {
+    margin-bottom: 12px;
+}
+
+input[type='text'], select, textarea{
+    width: 90vw;
+}

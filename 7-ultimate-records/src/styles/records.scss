@@ -1,0 +1,21 @@
+main{
+  display: flex;
+}
+section{
+  padding: 1rem;
+  h2{
+    text-align: center;
+  }
+}
+
+li{
+  list-style-type: none;
+}
+
+section:first-child{
+  width: 40%;
+  border-right: 1px solid #AAAACC;
+}
+section:nth-child(2){
+  width: 60%;
+}
